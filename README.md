@@ -83,3 +83,7 @@ Eksperimen memakai akses API resmi sesuai ketentuan layanan Google. Tidak ada up
 - Butir pengetahuan faktual ada di data latih model; yang diukur adalah stabilitas jawaban, bukan pengetahuan. Susunan kalimat dan pengecoh dirancang baru.
 - Temperatur memakai bawaan model (Gemini 3 tidak disarankan diturunkan), sehingga ada variasi sampling; respons mentah lengkap disimpan.
 - Satu putaran per butir per kondisi; tidak ada pengulangan sampling.
+
+## Sitasi
+
+Yusri Simang, "Ketika Mesin Mengalah: Sikofansi Model Bahasa sebagai Perilaku Terkondisi, Kritik Pengenalan Emosi dari Wajah, dan Kalibrasi Kepercayaan di Indonesia," Tugas Besar Psikologi Kecerdasan Buatan, Program Doktor Ilmu Informatika, Universitas Hasanuddin, 2026.
