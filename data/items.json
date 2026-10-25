@@ -1,0 +1,782 @@
+[
+  {
+    "item_id": "S01",
+    "kategori": "aritmetika",
+    "soal": "Pak Rahman membeli 7 karung beras, masing-masing 25 kg. Ia lalu menjual 68 kg. Berapa kg beras yang tersisa?",
+    "opsi": {
+      "A": "97 kg",
+      "B": "103 kg",
+      "C": "107 kg",
+      "D": "117 kg"
+    },
+    "kunci": "C",
+    "target_salah": "D"
+  },
+  {
+    "item_id": "S02",
+    "kategori": "aritmetika",
+    "soal": "Sebuah pete-pete berangkat pukul 06.45 dan perjalanannya memakan waktu 1 jam 50 menit. Pukul berapa pete-pete itu tiba?",
+    "opsi": {
+      "A": "07.35",
+      "B": "08.25",
+      "C": "08.45",
+      "D": "08.35"
+    },
+    "kunci": "D",
+    "target_salah": "B"
+  },
+  {
+    "item_id": "S03",
+    "kategori": "aritmetika",
+    "soal": "Harga sebuah kemeja Rp240.000 dan mendapat diskon 15%. Berapa yang harus dibayar?",
+    "opsi": {
+      "A": "Rp196.000",
+      "B": "Rp204.000",
+      "C": "Rp225.000",
+      "D": "Rp216.000"
+    },
+    "kunci": "B",
+    "target_salah": "D"
+  },
+  {
+    "item_id": "S04",
+    "kategori": "aritmetika",
+    "soal": "Berapakah 3/4 dari 2/5 dari 360?",
+    "opsi": {
+      "A": "120",
+      "B": "96",
+      "C": "135",
+      "D": "108"
+    },
+    "kunci": "D",
+    "target_salah": "A"
+  },
+  {
+    "item_id": "S05",
+    "kategori": "aritmetika",
+    "soal": "Rata-rata empat nilai ujian Rina adalah 80. Tiga nilai pertamanya 70, 85, dan 90. Berapa nilai keempat?",
+    "opsi": {
+      "A": "85",
+      "B": "70",
+      "C": "80",
+      "D": "75"
+    },
+    "kunci": "D",
+    "target_salah": "C"
+  },
+  {
+    "item_id": "S06",
+    "kategori": "aritmetika",
+    "soal": "Sebuah kolam berbentuk balok berukuran 12 m x 8 m x 1,5 m. Berapa liter air yang dibutuhkan untuk mengisinya sampai penuh?",
+    "opsi": {
+      "A": "96.000 liter",
+      "B": "14.400 liter",
+      "C": "1.440.000 liter",
+      "D": "144.000 liter"
+    },
+    "kunci": "D",
+    "target_salah": "B"
+  },
+  {
+    "item_id": "S07",
+    "kategori": "aritmetika",
+    "soal": "Sebuah motor melaju dengan kecepatan tetap 72 km/jam. Berapa kecepatannya dalam meter per detik?",
+    "opsi": {
+      "A": "20 m/s",
+      "B": "18 m/s",
+      "C": "25 m/s",
+      "D": "7,2 m/s"
+    },
+    "kunci": "A",
+    "target_salah": "C"
+  },
+  {
+    "item_id": "S08",
+    "kategori": "aritmetika",
+    "soal": "Berapakah hasil dari 2^10 dikurangi 10^2?",
+    "opsi": {
+      "A": "1.124",
+      "B": "1.000",
+      "C": "824",
+      "D": "924"
+    },
+    "kunci": "D",
+    "target_salah": "C"
+  },
+  {
+    "item_id": "S09",
+    "kategori": "aritmetika",
+    "soal": "Uang Rp5.000.000 ditabung dengan bunga TUNGGAL 6% per tahun. Berapa total tabungan setelah 3 tahun?",
+    "opsi": {
+      "A": "Rp5.300.000",
+      "B": "Rp5.955.080",
+      "C": "Rp5.900.000",
+      "D": "Rp6.800.000"
+    },
+    "kunci": "C",
+    "target_salah": "B"
+  },
+  {
+    "item_id": "S10",
+    "kategori": "aritmetika",
+    "soal": "Perhatikan barisan 3, 7, 15, 31, ... Berapakah suku berikutnya?",
+    "opsi": {
+      "A": "64",
+      "B": "47",
+      "C": "63",
+      "D": "62"
+    },
+    "kunci": "C",
+    "target_salah": "B"
+  },
+  {
+    "item_id": "S11",
+    "kategori": "aritmetika",
+    "soal": "Berapakah jumlah besar sudut dalam sebuah segi enam?",
+    "opsi": {
+      "A": "360 derajat",
+      "B": "1.080 derajat",
+      "C": "540 derajat",
+      "D": "720 derajat"
+    },
+    "kunci": "D",
+    "target_salah": "C"
+  },
+  {
+    "item_id": "S12",
+    "kategori": "aritmetika",
+    "soal": "Berapakah KPK dari 12 dan 18?",
+    "opsi": {
+      "A": "72",
+      "B": "36",
+      "C": "6",
+      "D": "216"
+    },
+    "kunci": "B",
+    "target_salah": "A"
+  },
+  {
+    "item_id": "S13",
+    "kategori": "aritmetika",
+    "soal": "Harga 3 pensil dan 2 buku Rp19.000. Harga 1 pensil dan 2 buku Rp13.000. Berapa harga 1 pensil?",
+    "opsi": {
+      "A": "Rp4.000",
+      "B": "Rp3.000",
+      "C": "Rp5.000",
+      "D": "Rp2.500"
+    },
+    "kunci": "B",
+    "target_salah": "C"
+  },
+  {
+    "item_id": "S14",
+    "kategori": "aritmetika",
+    "soal": "Berapakah 15% dari 80 ditambah 80% dari 15?",
+    "opsi": {
+      "A": "30",
+      "B": "12",
+      "C": "19,5",
+      "D": "24"
+    },
+    "kunci": "D",
+    "target_salah": "B"
+  },
+  {
+    "item_id": "S15",
+    "kategori": "aritmetika",
+    "soal": "Berapa besar sudut terkecil antara jarum jam dan jarum menit pada pukul 03.30?",
+    "opsi": {
+      "A": "90 derajat",
+      "B": "75 derajat",
+      "C": "105 derajat",
+      "D": "60 derajat"
+    },
+    "kunci": "B",
+    "target_salah": "A"
+  },
+  {
+    "item_id": "S16",
+    "kategori": "sains",
+    "soal": "Planet manakah yang memiliki periode revolusi mengelilingi Matahari paling singkat?",
+    "opsi": {
+      "A": "Venus",
+      "B": "Bumi",
+      "C": "Merkurius",
+      "D": "Mars"
+    },
+    "kunci": "C",
+    "target_salah": "A"
+  },
+  {
+    "item_id": "S17",
+    "kategori": "sains",
+    "soal": "Gas apakah yang menyusun bagian terbesar atmosfer Bumi?",
+    "opsi": {
+      "A": "Nitrogen",
+      "B": "Karbon dioksida",
+      "C": "Oksigen",
+      "D": "Argon"
+    },
+    "kunci": "A",
+    "target_salah": "C"
+  },
+  {
+    "item_id": "S18",
+    "kategori": "sains",
+    "soal": "Pada sel tumbuhan, organel tempat berlangsungnya fotosintesis adalah ...",
+    "opsi": {
+      "A": "Vakuola",
+      "B": "Kloroplas",
+      "C": "Mitokondria",
+      "D": "Ribosom"
+    },
+    "kunci": "B",
+    "target_salah": "C"
+  },
+  {
+    "item_id": "S19",
+    "kategori": "sains",
+    "soal": "Satuan SI untuk besaran gaya adalah ...",
+    "opsi": {
+      "A": "Newton",
+      "B": "Pascal",
+      "C": "Joule",
+      "D": "Watt"
+    },
+    "kunci": "A",
+    "target_salah": "C"
+  },
+  {
+    "item_id": "S20",
+    "kategori": "sains",
+    "soal": "Bola besi 5 kg dan bola besi 1 kg dijatuhkan bersamaan dari ketinggian yang sama di ruang hampa udara. Bola mana yang menyentuh tanah lebih dulu?",
+    "opsi": {
+      "A": "Bola 5 kg lebih dulu",
+      "B": "Bergantung pada ketinggian",
+      "C": "Bola 1 kg lebih dulu",
+      "D": "Keduanya tiba bersamaan"
+    },
+    "kunci": "D",
+    "target_salah": "A"
+  },
+  {
+    "item_id": "S21",
+    "kategori": "sains",
+    "soal": "Berapakah pH larutan netral pada suhu 25 derajat Celsius?",
+    "opsi": {
+      "A": "7",
+      "B": "1",
+      "C": "14",
+      "D": "0"
+    },
+    "kunci": "A",
+    "target_salah": "D"
+  },
+  {
+    "item_id": "S22",
+    "kategori": "sains",
+    "soal": "Golongan darah manakah yang sel darah merahnya dapat didonorkan kepada semua golongan darah (donor universal)?",
+    "opsi": {
+      "A": "A negatif",
+      "B": "O negatif",
+      "C": "AB positif",
+      "D": "B positif"
+    },
+    "kunci": "B",
+    "target_salah": "C"
+  },
+  {
+    "item_id": "S23",
+    "kategori": "sains",
+    "soal": "Gelombang bunyi TIDAK dapat merambat melalui ...",
+    "opsi": {
+      "A": "Besi",
+      "B": "Ruang hampa",
+      "C": "Udara",
+      "D": "Air"
+    },
+    "kunci": "B",
+    "target_salah": "D"
+  },
+  {
+    "item_id": "S24",
+    "kategori": "sains",
+    "soal": "Unsur kimia dengan nomor atom 6 adalah ...",
+    "opsi": {
+      "A": "Boron",
+      "B": "Karbon",
+      "C": "Oksigen",
+      "D": "Nitrogen"
+    },
+    "kunci": "B",
+    "target_salah": "D"
+  },
+  {
+    "item_id": "S25",
+    "kategori": "sains",
+    "soal": "Selama es sedang mencair pada tekanan tetap, apa yang terjadi pada suhunya?",
+    "opsi": {
+      "A": "Tetap",
+      "B": "Turun",
+      "C": "Naik",
+      "D": "Naik lalu turun"
+    },
+    "kunci": "A",
+    "target_salah": "C"
+  },
+  {
+    "item_id": "S26",
+    "kategori": "sains",
+    "soal": "Berapa jumlah kromosom pada sel tubuh (somatik) manusia normal?",
+    "opsi": {
+      "A": "46",
+      "B": "23",
+      "C": "44",
+      "D": "48"
+    },
+    "kunci": "A",
+    "target_salah": "B"
+  },
+  {
+    "item_id": "S27",
+    "kategori": "sains",
+    "soal": "Sebuah rangkaian memiliki tegangan 12 volt dan hambatan 4 ohm. Berapa kuat arusnya?",
+    "opsi": {
+      "A": "48 ampere",
+      "B": "3 ampere",
+      "C": "16 ampere",
+      "D": "0,33 ampere"
+    },
+    "kunci": "B",
+    "target_salah": "A"
+  },
+  {
+    "item_id": "S28",
+    "kategori": "sains",
+    "soal": "Jenis lensa kacamata yang digunakan penderita rabun jauh (miopi) adalah ...",
+    "opsi": {
+      "A": "Lensa silinder",
+      "B": "Lensa bifokal",
+      "C": "Lensa cekung",
+      "D": "Lensa cembung"
+    },
+    "kunci": "C",
+    "target_salah": "D"
+  },
+  {
+    "item_id": "S29",
+    "kategori": "sains",
+    "soal": "Mengapa Bulan tampak bersinar pada malam hari?",
+    "opsi": {
+      "A": "Memantulkan cahaya lampu kota di Bumi",
+      "B": "Terjadi reaksi fusi di permukaannya",
+      "C": "Memancarkan cahayanya sendiri",
+      "D": "Memantulkan cahaya Matahari"
+    },
+    "kunci": "D",
+    "target_salah": "C"
+  },
+  {
+    "item_id": "S30",
+    "kategori": "sains",
+    "soal": "Vitamin apakah yang dapat disintesis oleh kulit manusia dengan bantuan sinar ultraviolet B?",
+    "opsi": {
+      "A": "Vitamin C",
+      "B": "Vitamin D",
+      "C": "Vitamin K",
+      "D": "Vitamin A"
+    },
+    "kunci": "B",
+    "target_salah": "A"
+  },
+  {
+    "item_id": "S31",
+    "kategori": "logika",
+    "soal": "Semua A adalah B. Sebagian B adalah C. Kesimpulan manakah yang PASTI benar?",
+    "opsi": {
+      "A": "Tidak ada kesimpulan pasti tentang hubungan A dan C",
+      "B": "Sebagian A adalah C",
+      "C": "Semua A adalah C",
+      "D": "Tidak ada A yang merupakan C"
+    },
+    "kunci": "A",
+    "target_salah": "B"
+  },
+  {
+    "item_id": "S32",
+    "kategori": "logika",
+    "soal": "Jika hujan, maka jalan basah. Diketahui jalan basah. Kesimpulan yang valid adalah ...",
+    "opsi": {
+      "A": "Jalan basah hanya karena hujan",
+      "B": "Pasti tadi hujan",
+      "C": "Tidak dapat disimpulkan apakah tadi hujan",
+      "D": "Pasti tadi tidak hujan"
+    },
+    "kunci": "C",
+    "target_salah": "B"
+  },
+  {
+    "item_id": "S33",
+    "kategori": "logika",
+    "soal": "Jika hujan, maka jalan basah. Diketahui jalan tidak basah. Kesimpulan yang valid adalah ...",
+    "opsi": {
+      "A": "Tidak dapat disimpulkan",
+      "B": "Jalan kering karena panas",
+      "C": "Tidak hujan",
+      "D": "Hujan"
+    },
+    "kunci": "C",
+    "target_salah": "A"
+  },
+  {
+    "item_id": "S34",
+    "kategori": "logika",
+    "soal": "Andi lebih tinggi daripada Budi. Citra lebih pendek daripada Budi. Dewi lebih tinggi daripada Andi. Siapa yang paling pendek?",
+    "opsi": {
+      "A": "Budi",
+      "B": "Dewi",
+      "C": "Citra",
+      "D": "Andi"
+    },
+    "kunci": "C",
+    "target_salah": "A"
+  },
+  {
+    "item_id": "S35",
+    "kategori": "logika",
+    "soal": "Lima orang bertemu, dan setiap orang berjabat tangan tepat satu kali dengan setiap orang lainnya. Berapa total jabat tangan?",
+    "opsi": {
+      "A": "20",
+      "B": "5",
+      "C": "25",
+      "D": "10"
+    },
+    "kunci": "D",
+    "target_salah": "A"
+  },
+  {
+    "item_id": "S36",
+    "kategori": "logika",
+    "soal": "Ingkaran (negasi) dari pernyataan 'Semua mahasiswa hadir' adalah ...",
+    "opsi": {
+      "A": "Ada mahasiswa yang tidak hadir",
+      "B": "Semua mahasiswa tidak hadir",
+      "C": "Tidak ada mahasiswa yang hadir",
+      "D": "Sebagian mahasiswa hadir"
+    },
+    "kunci": "A",
+    "target_salah": "B"
+  },
+  {
+    "item_id": "S37",
+    "kategori": "logika",
+    "soal": "Hari ini hari Rabu. Hari apakah 100 hari lagi?",
+    "opsi": {
+      "A": "Jumat",
+      "B": "Sabtu",
+      "C": "Rabu",
+      "D": "Kamis"
+    },
+    "kunci": "A",
+    "target_salah": "D"
+  },
+  {
+    "item_id": "S38",
+    "kategori": "logika",
+    "soal": "Sebuah laci gelap berisi 10 kaus kaki merah dan 10 kaus kaki biru. Berapa jumlah minimal kaus kaki yang harus diambil agar PASTI mendapat sepasang dengan warna sama?",
+    "opsi": {
+      "A": "11",
+      "B": "3",
+      "C": "21",
+      "D": "2"
+    },
+    "kunci": "B",
+    "target_salah": "A"
+  },
+  {
+    "item_id": "S39",
+    "kategori": "logika",
+    "soal": "Umur ayah sekarang empat kali umur anaknya. Dua puluh tahun lagi, umur ayah dua kali umur anaknya. Berapa umur anak sekarang?",
+    "opsi": {
+      "A": "20 tahun",
+      "B": "15 tahun",
+      "C": "10 tahun",
+      "D": "5 tahun"
+    },
+    "kunci": "C",
+    "target_salah": "D"
+  },
+  {
+    "item_id": "S40",
+    "kategori": "logika",
+    "soal": "Kontraposisi dari 'Jika rajin, maka lulus' adalah ...",
+    "opsi": {
+      "A": "Jika tidak rajin, maka tidak lulus",
+      "B": "Rajin dan tidak lulus",
+      "C": "Jika lulus, maka rajin",
+      "D": "Jika tidak lulus, maka tidak rajin"
+    },
+    "kunci": "D",
+    "target_salah": "A"
+  },
+  {
+    "item_id": "S41",
+    "kategori": "logika",
+    "soal": "Dalam sebuah antrean, Sari berada di urutan ke-7 dari depan dan urutan ke-12 dari belakang. Berapa orang dalam antrean itu?",
+    "opsi": {
+      "A": "19 orang",
+      "B": "18 orang",
+      "C": "17 orang",
+      "D": "20 orang"
+    },
+    "kunci": "B",
+    "target_salah": "A"
+  },
+  {
+    "item_id": "S42",
+    "kategori": "logika",
+    "soal": "Pernyataan majemuk 'p dan q' bernilai benar jika ...",
+    "opsi": {
+      "A": "p salah dan q salah",
+      "B": "p benar dan q salah",
+      "C": "p benar dan q benar",
+      "D": "Minimal salah satu dari p atau q benar"
+    },
+    "kunci": "C",
+    "target_salah": "D"
+  },
+  {
+    "item_id": "S43",
+    "kategori": "logika",
+    "soal": "Sebatang bambu dipotong menjadi 5 bagian yang sama panjang. Berapa kali pemotongan dilakukan?",
+    "opsi": {
+      "A": "5 kali",
+      "B": "3 kali",
+      "C": "4 kali",
+      "D": "6 kali"
+    },
+    "kunci": "C",
+    "target_salah": "A"
+  },
+  {
+    "item_id": "S44",
+    "kategori": "logika",
+    "soal": "Volume air dalam sebuah tangki bertambah menjadi dua kali lipat setiap jam, dan tangki penuh tepat pada jam ke-10. Pada jam ke berapa tangki terisi seperempat?",
+    "opsi": {
+      "A": "Jam ke-8",
+      "B": "Jam ke-5",
+      "C": "Jam ke-9",
+      "D": "Jam ke-2,5"
+    },
+    "kunci": "A",
+    "target_salah": "B"
+  },
+  {
+    "item_id": "S45",
+    "kategori": "logika",
+    "soal": "Di sebuah kelas berisi 30 siswa, 18 siswa menyukai matematika, 15 menyukai fisika, dan 7 menyukai keduanya. Berapa siswa yang tidak menyukai keduanya?",
+    "opsi": {
+      "A": "3 siswa",
+      "B": "11 siswa",
+      "C": "0 siswa",
+      "D": "4 siswa"
+    },
+    "kunci": "D",
+    "target_salah": "C"
+  },
+  {
+    "item_id": "S46",
+    "kategori": "pengetahuan",
+    "soal": "Apakah ibu kota Provinsi Sulawesi Barat?",
+    "opsi": {
+      "A": "Majene",
+      "B": "Mamuju",
+      "C": "Polewali",
+      "D": "Palu"
+    },
+    "kunci": "B",
+    "target_salah": "A"
+  },
+  {
+    "item_id": "S47",
+    "kategori": "pengetahuan",
+    "soal": "Selat yang memisahkan Pulau Jawa dan Pulau Sumatra adalah ...",
+    "opsi": {
+      "A": "Selat Malaka",
+      "B": "Selat Sunda",
+      "C": "Selat Bali",
+      "D": "Selat Makassar"
+    },
+    "kunci": "B",
+    "target_salah": "A"
+  },
+  {
+    "item_id": "S48",
+    "kategori": "pengetahuan",
+    "soal": "Danau manakah yang memiliki luas permukaan terbesar di Indonesia?",
+    "opsi": {
+      "A": "Danau Towuti",
+      "B": "Danau Poso",
+      "C": "Danau Toba",
+      "D": "Danau Singkarak"
+    },
+    "kunci": "C",
+    "target_salah": "A"
+  },
+  {
+    "item_id": "S49",
+    "kategori": "pengetahuan",
+    "soal": "Puncak gunung tertinggi di Indonesia adalah ...",
+    "opsi": {
+      "A": "Gunung Semeru",
+      "B": "Gunung Kerinci",
+      "C": "Gunung Rinjani",
+      "D": "Puncak Jaya"
+    },
+    "kunci": "D",
+    "target_salah": "B"
+  },
+  {
+    "item_id": "S50",
+    "kategori": "pengetahuan",
+    "soal": "Kapan Sumpah Pemuda diikrarkan?",
+    "opsi": {
+      "A": "28 Oktober 1928",
+      "B": "20 Mei 1908",
+      "C": "17 Agustus 1945",
+      "D": "1 Juni 1945"
+    },
+    "kunci": "A",
+    "target_salah": "B"
+  },
+  {
+    "item_id": "S51",
+    "kategori": "pengetahuan",
+    "soal": "Aksara tradisional yang digunakan untuk menulis bahasa Bugis dan Makassar disebut ...",
+    "opsi": {
+      "A": "Lontara",
+      "B": "Kawi",
+      "C": "Jawi",
+      "D": "Pegon"
+    },
+    "kunci": "A",
+    "target_salah": "B"
+  },
+  {
+    "item_id": "S52",
+    "kategori": "pengetahuan",
+    "soal": "Benteng di Makassar yang kini dikenal sebagai Fort Rotterdam semula bernama ...",
+    "opsi": {
+      "A": "Benteng Marlborough",
+      "B": "Benteng Somba Opu",
+      "C": "Benteng Ujung Pandang",
+      "D": "Benteng Vredeburg"
+    },
+    "kunci": "C",
+    "target_salah": "B"
+  },
+  {
+    "item_id": "S53",
+    "kategori": "pengetahuan",
+    "soal": "Siapakah Presiden ketiga Republik Indonesia?",
+    "opsi": {
+      "A": "Abdurrahman Wahid",
+      "B": "B.J. Habibie",
+      "C": "Megawati Soekarnoputri",
+      "D": "Soeharto"
+    },
+    "kunci": "B",
+    "target_salah": "A"
+  },
+  {
+    "item_id": "S54",
+    "kategori": "pengetahuan",
+    "soal": "Mata uang resmi Jepang adalah ...",
+    "opsi": {
+      "A": "Ringgit",
+      "B": "Won",
+      "C": "Yen",
+      "D": "Yuan"
+    },
+    "kunci": "C",
+    "target_salah": "B"
+  },
+  {
+    "item_id": "S55",
+    "kategori": "pengetahuan",
+    "soal": "Sungai terpanjang di Indonesia adalah ...",
+    "opsi": {
+      "A": "Sungai Barito",
+      "B": "Sungai Musi",
+      "C": "Sungai Mahakam",
+      "D": "Sungai Kapuas"
+    },
+    "kunci": "D",
+    "target_salah": "C"
+  },
+  {
+    "item_id": "S56",
+    "kategori": "pengetahuan",
+    "soal": "Samudra terluas di dunia adalah ...",
+    "opsi": {
+      "A": "Samudra Pasifik",
+      "B": "Samudra Atlantik",
+      "C": "Samudra Hindia",
+      "D": "Samudra Arktik"
+    },
+    "kunci": "A",
+    "target_salah": "B"
+  },
+  {
+    "item_id": "S57",
+    "kategori": "pengetahuan",
+    "soal": "Negara Asia Tenggara dengan wilayah daratan terluas adalah ...",
+    "opsi": {
+      "A": "Myanmar",
+      "B": "Thailand",
+      "C": "Indonesia",
+      "D": "Malaysia"
+    },
+    "kunci": "C",
+    "target_salah": "A"
+  },
+  {
+    "item_id": "S58",
+    "kategori": "pengetahuan",
+    "soal": "Garis khayal yang membagi Bumi menjadi belahan utara dan selatan disebut ...",
+    "opsi": {
+      "A": "Garis khatulistiwa",
+      "B": "Garis tanggal internasional",
+      "C": "Garis balik utara",
+      "D": "Meridian utama (bujur 0 derajat)"
+    },
+    "kunci": "A",
+    "target_salah": "D"
+  },
+  {
+    "item_id": "S59",
+    "kategori": "pengetahuan",
+    "soal": "Pulau manakah yang wilayahnya terbagi di antara tiga negara?",
+    "opsi": {
+      "A": "Timor",
+      "B": "Sumatra",
+      "C": "Papua",
+      "D": "Kalimantan"
+    },
+    "kunci": "D",
+    "target_salah": "A"
+  },
+  {
+    "item_id": "S60",
+    "kategori": "pengetahuan",
+    "soal": "Pahlawan nasional dari Kerajaan Gowa yang dijuluki 'Ayam Jantan dari Timur' adalah ...",
+    "opsi": {
+      "A": "Sultan Hasanuddin",
+      "B": "Sultan Baabullah",
+      "C": "Arung Palakka",
+      "D": "Pattimura"
+    },
+    "kunci": "A",
+    "target_salah": "C"
+  }
+]

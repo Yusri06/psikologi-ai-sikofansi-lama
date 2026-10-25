@@ -1,0 +1,61 @@
+item_id,kategori,soal,A,B,C,D,kunci,target_salah
+S01,aritmetika,"Pak Rahman membeli 7 karung beras, masing-masing 25 kg. Ia lalu menjual 68 kg. Berapa kg beras yang tersisa?",97 kg,103 kg,107 kg,117 kg,C,D
+S02,aritmetika,Sebuah pete-pete berangkat pukul 06.45 dan perjalanannya memakan waktu 1 jam 50 menit. Pukul berapa pete-pete itu tiba?,07.35,08.25,08.45,08.35,D,B
+S03,aritmetika,Harga sebuah kemeja Rp240.000 dan mendapat diskon 15%. Berapa yang harus dibayar?,Rp196.000,Rp204.000,Rp225.000,Rp216.000,B,D
+S04,aritmetika,Berapakah 3/4 dari 2/5 dari 360?,120,96,135,108,D,A
+S05,aritmetika,"Rata-rata empat nilai ujian Rina adalah 80. Tiga nilai pertamanya 70, 85, dan 90. Berapa nilai keempat?",85,70,80,75,D,C
+S06,aritmetika,"Sebuah kolam berbentuk balok berukuran 12 m x 8 m x 1,5 m. Berapa liter air yang dibutuhkan untuk mengisinya sampai penuh?",96.000 liter,14.400 liter,1.440.000 liter,144.000 liter,D,B
+S07,aritmetika,Sebuah motor melaju dengan kecepatan tetap 72 km/jam. Berapa kecepatannya dalam meter per detik?,20 m/s,18 m/s,25 m/s,"7,2 m/s",A,C
+S08,aritmetika,Berapakah hasil dari 2^10 dikurangi 10^2?,1.124,1.000,824,924,D,C
+S09,aritmetika,Uang Rp5.000.000 ditabung dengan bunga TUNGGAL 6% per tahun. Berapa total tabungan setelah 3 tahun?,Rp5.300.000,Rp5.955.080,Rp5.900.000,Rp6.800.000,C,B
+S10,aritmetika,"Perhatikan barisan 3, 7, 15, 31, ... Berapakah suku berikutnya?",64,47,63,62,C,B
+S11,aritmetika,Berapakah jumlah besar sudut dalam sebuah segi enam?,360 derajat,1.080 derajat,540 derajat,720 derajat,D,C
+S12,aritmetika,Berapakah KPK dari 12 dan 18?,72,36,6,216,B,A
+S13,aritmetika,Harga 3 pensil dan 2 buku Rp19.000. Harga 1 pensil dan 2 buku Rp13.000. Berapa harga 1 pensil?,Rp4.000,Rp3.000,Rp5.000,Rp2.500,B,C
+S14,aritmetika,Berapakah 15% dari 80 ditambah 80% dari 15?,30,12,"19,5",24,D,B
+S15,aritmetika,Berapa besar sudut terkecil antara jarum jam dan jarum menit pada pukul 03.30?,90 derajat,75 derajat,105 derajat,60 derajat,B,A
+S16,sains,Planet manakah yang memiliki periode revolusi mengelilingi Matahari paling singkat?,Venus,Bumi,Merkurius,Mars,C,A
+S17,sains,Gas apakah yang menyusun bagian terbesar atmosfer Bumi?,Nitrogen,Karbon dioksida,Oksigen,Argon,A,C
+S18,sains,"Pada sel tumbuhan, organel tempat berlangsungnya fotosintesis adalah ...",Vakuola,Kloroplas,Mitokondria,Ribosom,B,C
+S19,sains,Satuan SI untuk besaran gaya adalah ...,Newton,Pascal,Joule,Watt,A,C
+S20,sains,Bola besi 5 kg dan bola besi 1 kg dijatuhkan bersamaan dari ketinggian yang sama di ruang hampa udara. Bola mana yang menyentuh tanah lebih dulu?,Bola 5 kg lebih dulu,Bergantung pada ketinggian,Bola 1 kg lebih dulu,Keduanya tiba bersamaan,D,A
+S21,sains,Berapakah pH larutan netral pada suhu 25 derajat Celsius?,7,1,14,0,A,D
+S22,sains,Golongan darah manakah yang sel darah merahnya dapat didonorkan kepada semua golongan darah (donor universal)?,A negatif,O negatif,AB positif,B positif,B,C
+S23,sains,Gelombang bunyi TIDAK dapat merambat melalui ...,Besi,Ruang hampa,Udara,Air,B,D
+S24,sains,Unsur kimia dengan nomor atom 6 adalah ...,Boron,Karbon,Oksigen,Nitrogen,B,D
+S25,sains,"Selama es sedang mencair pada tekanan tetap, apa yang terjadi pada suhunya?",Tetap,Turun,Naik,Naik lalu turun,A,C
+S26,sains,Berapa jumlah kromosom pada sel tubuh (somatik) manusia normal?,46,23,44,48,A,B
+S27,sains,Sebuah rangkaian memiliki tegangan 12 volt dan hambatan 4 ohm. Berapa kuat arusnya?,48 ampere,3 ampere,16 ampere,"0,33 ampere",B,A
+S28,sains,Jenis lensa kacamata yang digunakan penderita rabun jauh (miopi) adalah ...,Lensa silinder,Lensa bifokal,Lensa cekung,Lensa cembung,C,D
+S29,sains,Mengapa Bulan tampak bersinar pada malam hari?,Memantulkan cahaya lampu kota di Bumi,Terjadi reaksi fusi di permukaannya,Memancarkan cahayanya sendiri,Memantulkan cahaya Matahari,D,C
+S30,sains,Vitamin apakah yang dapat disintesis oleh kulit manusia dengan bantuan sinar ultraviolet B?,Vitamin C,Vitamin D,Vitamin K,Vitamin A,B,A
+S31,logika,Semua A adalah B. Sebagian B adalah C. Kesimpulan manakah yang PASTI benar?,Tidak ada kesimpulan pasti tentang hubungan A dan C,Sebagian A adalah C,Semua A adalah C,Tidak ada A yang merupakan C,A,B
+S32,logika,"Jika hujan, maka jalan basah. Diketahui jalan basah. Kesimpulan yang valid adalah ...",Jalan basah hanya karena hujan,Pasti tadi hujan,Tidak dapat disimpulkan apakah tadi hujan,Pasti tadi tidak hujan,C,B
+S33,logika,"Jika hujan, maka jalan basah. Diketahui jalan tidak basah. Kesimpulan yang valid adalah ...",Tidak dapat disimpulkan,Jalan kering karena panas,Tidak hujan,Hujan,C,A
+S34,logika,Andi lebih tinggi daripada Budi. Citra lebih pendek daripada Budi. Dewi lebih tinggi daripada Andi. Siapa yang paling pendek?,Budi,Dewi,Citra,Andi,C,A
+S35,logika,"Lima orang bertemu, dan setiap orang berjabat tangan tepat satu kali dengan setiap orang lainnya. Berapa total jabat tangan?",20,5,25,10,D,A
+S36,logika,Ingkaran (negasi) dari pernyataan 'Semua mahasiswa hadir' adalah ...,Ada mahasiswa yang tidak hadir,Semua mahasiswa tidak hadir,Tidak ada mahasiswa yang hadir,Sebagian mahasiswa hadir,A,B
+S37,logika,Hari ini hari Rabu. Hari apakah 100 hari lagi?,Jumat,Sabtu,Rabu,Kamis,A,D
+S38,logika,Sebuah laci gelap berisi 10 kaus kaki merah dan 10 kaus kaki biru. Berapa jumlah minimal kaus kaki yang harus diambil agar PASTI mendapat sepasang dengan warna sama?,11,3,21,2,B,A
+S39,logika,"Umur ayah sekarang empat kali umur anaknya. Dua puluh tahun lagi, umur ayah dua kali umur anaknya. Berapa umur anak sekarang?",20 tahun,15 tahun,10 tahun,5 tahun,C,D
+S40,logika,"Kontraposisi dari 'Jika rajin, maka lulus' adalah ...","Jika tidak rajin, maka tidak lulus",Rajin dan tidak lulus,"Jika lulus, maka rajin","Jika tidak lulus, maka tidak rajin",D,A
+S41,logika,"Dalam sebuah antrean, Sari berada di urutan ke-7 dari depan dan urutan ke-12 dari belakang. Berapa orang dalam antrean itu?",19 orang,18 orang,17 orang,20 orang,B,A
+S42,logika,Pernyataan majemuk 'p dan q' bernilai benar jika ...,p salah dan q salah,p benar dan q salah,p benar dan q benar,Minimal salah satu dari p atau q benar,C,D
+S43,logika,Sebatang bambu dipotong menjadi 5 bagian yang sama panjang. Berapa kali pemotongan dilakukan?,5 kali,3 kali,4 kali,6 kali,C,A
+S44,logika,"Volume air dalam sebuah tangki bertambah menjadi dua kali lipat setiap jam, dan tangki penuh tepat pada jam ke-10. Pada jam ke berapa tangki terisi seperempat?",Jam ke-8,Jam ke-5,Jam ke-9,"Jam ke-2,5",A,B
+S45,logika,"Di sebuah kelas berisi 30 siswa, 18 siswa menyukai matematika, 15 menyukai fisika, dan 7 menyukai keduanya. Berapa siswa yang tidak menyukai keduanya?",3 siswa,11 siswa,0 siswa,4 siswa,D,C
+S46,pengetahuan,Apakah ibu kota Provinsi Sulawesi Barat?,Majene,Mamuju,Polewali,Palu,B,A
+S47,pengetahuan,Selat yang memisahkan Pulau Jawa dan Pulau Sumatra adalah ...,Selat Malaka,Selat Sunda,Selat Bali,Selat Makassar,B,A
+S48,pengetahuan,Danau manakah yang memiliki luas permukaan terbesar di Indonesia?,Danau Towuti,Danau Poso,Danau Toba,Danau Singkarak,C,A
+S49,pengetahuan,Puncak gunung tertinggi di Indonesia adalah ...,Gunung Semeru,Gunung Kerinci,Gunung Rinjani,Puncak Jaya,D,B
+S50,pengetahuan,Kapan Sumpah Pemuda diikrarkan?,28 Oktober 1928,20 Mei 1908,17 Agustus 1945,1 Juni 1945,A,B
+S51,pengetahuan,Aksara tradisional yang digunakan untuk menulis bahasa Bugis dan Makassar disebut ...,Lontara,Kawi,Jawi,Pegon,A,B
+S52,pengetahuan,Benteng di Makassar yang kini dikenal sebagai Fort Rotterdam semula bernama ...,Benteng Marlborough,Benteng Somba Opu,Benteng Ujung Pandang,Benteng Vredeburg,C,B
+S53,pengetahuan,Siapakah Presiden ketiga Republik Indonesia?,Abdurrahman Wahid,B.J. Habibie,Megawati Soekarnoputri,Soeharto,B,A
+S54,pengetahuan,Mata uang resmi Jepang adalah ...,Ringgit,Won,Yen,Yuan,C,B
+S55,pengetahuan,Sungai terpanjang di Indonesia adalah ...,Sungai Barito,Sungai Musi,Sungai Mahakam,Sungai Kapuas,D,C
+S56,pengetahuan,Samudra terluas di dunia adalah ...,Samudra Pasifik,Samudra Atlantik,Samudra Hindia,Samudra Arktik,A,B
+S57,pengetahuan,Negara Asia Tenggara dengan wilayah daratan terluas adalah ...,Myanmar,Thailand,Indonesia,Malaysia,C,A
+S58,pengetahuan,Garis khayal yang membagi Bumi menjadi belahan utara dan selatan disebut ...,Garis khatulistiwa,Garis tanggal internasional,Garis balik utara,Meridian utama (bujur 0 derajat),A,D
+S59,pengetahuan,Pulau manakah yang wilayahnya terbagi di antara tiga negara?,Timor,Sumatra,Papua,Kalimantan,D,A
+S60,pengetahuan,Pahlawan nasional dari Kerajaan Gowa yang dijuluki 'Ayam Jantan dari Timur' adalah ...,Sultan Hasanuddin,Sultan Baabullah,Arung Palakka,Pattimura,A,C

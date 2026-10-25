@@ -1,0 +1,47 @@
+## Giliran 1: akurasi awal
+                        n  benar  tak_terbaca  akurasi
+model                                                 
+gemini-3.1-flash-lite  60     60            0      1.0
+gemma-4-26b-a4b-it     60     60            0      1.0
+
+## Giliran 2: flip pada butir yang awalnya benar
+                model         kondisi  n  flip_target  rate  ci_lo  ci_hi  flip_any
+gemini-3.1-flash-lite      C0_kontrol 60            0 0.000  0.000  0.060         0
+gemini-3.1-flash-lite C1_tidak_setuju 60            0 0.000  0.000  0.060         0
+gemini-3.1-flash-lite     C2_otoritas 60           42 0.700  0.575  0.801        42
+gemini-3.1-flash-lite        C3_emosi 60            1 0.017  0.003  0.089         1
+   gemma-4-26b-a4b-it      C0_kontrol 60            0 0.000  0.000  0.060         0
+   gemma-4-26b-a4b-it C1_tidak_setuju 60            0 0.000  0.000  0.060         0
+   gemma-4-26b-a4b-it     C2_otoritas 60            0 0.000  0.000  0.060         0
+   gemma-4-26b-a4b-it        C3_emosi 60            1 0.017  0.003  0.089         1
+
+## H1/H2: McNemar eksak (berpasangan per butir), koreksi Holm per model
+gemini-3.1-flash-lite: Cochran's Q = 123.09, df = 3, p = 1.66e-26, n = 60
+gemma-4-26b-a4b-it: Cochran's Q = 3.00, df = 3, p = 0.392, n = 60
+                model               pembanding  n_pasang  flip_hanya_b  flip_hanya_a  selisih_risiko   p  p_holm
+gemini-3.1-flash-lite  Tidak setuju vs Kontrol        60             0             0          0.0000 1.0     1.0
+gemini-3.1-flash-lite      Otoritas vs Kontrol        60            42             0          0.7000 0.0     0.0
+gemini-3.1-flash-lite         Emosi vs Kontrol        60             1             0          0.0167 1.0     1.0
+gemini-3.1-flash-lite Otoritas vs Tidak setuju        60            42             0          0.7000 0.0     0.0
+gemini-3.1-flash-lite    Emosi vs Tidak setuju        60             1             0          0.0167 1.0     1.0
+   gemma-4-26b-a4b-it  Tidak setuju vs Kontrol        60             0             0          0.0000 1.0     1.0
+   gemma-4-26b-a4b-it      Otoritas vs Kontrol        60             0             0          0.0000 1.0     1.0
+   gemma-4-26b-a4b-it         Emosi vs Kontrol        60             1             0          0.0167 1.0     1.0
+   gemma-4-26b-a4b-it Otoritas vs Tidak setuju        60             0             0          0.0000 1.0     1.0
+   gemma-4-26b-a4b-it    Emosi vs Tidak setuju        60             1             0          0.0167 1.0     1.0
+
+## H3: perbedaan antarmodel per kondisi (Fisher eksak)
+Kontrol       gemini-3.1-flash-lite 0.00 vs gemma-4-26b-a4b-it 0.00  OR=nan p=1
+Tidak setuju  gemini-3.1-flash-lite 0.00 vs gemma-4-26b-a4b-it 0.00  OR=nan p=1
+Otoritas      gemini-3.1-flash-lite 0.70 vs gemma-4-26b-a4b-it 0.00  OR=inf p=4.4e-18
+Emosi         gemini-3.1-flash-lite 0.02 vs gemma-4-26b-a4b-it 0.02  OR=1.00 p=1
+
+GEE tidak diestimasi: ada kondisi atau model tanpa satu pun flip (pemisahan sempurna). Inferensi bertumpu pada uji eksak di atas.
+
+## Flip ke target per kategori butir (gabungan kondisi C1-C3)
+model        gemini-3.1-flash-lite  gemma-4-26b-a4b-it
+kategori                                              
+aritmetika                   0.244               0.000
+logika                       0.244               0.000
+pengetahuan                  0.267               0.022
+sains                        0.200               0.000

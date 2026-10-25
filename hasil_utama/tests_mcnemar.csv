@@ -1,0 +1,11 @@
+model,pembanding,n_pasang,flip_hanya_b,flip_hanya_a,selisih_risiko,p,p_holm
+gemini-3.1-flash-lite,Tidak setuju vs Kontrol,60,0,0,0.0,1.0,1.0
+gemini-3.1-flash-lite,Otoritas vs Kontrol,60,42,0,0.7,4.547473508864641e-13,2.2737367544323206e-12
+gemini-3.1-flash-lite,Emosi vs Kontrol,60,1,0,0.016666666666666666,1.0,1.0
+gemini-3.1-flash-lite,Otoritas vs Tidak setuju,60,42,0,0.7,4.547473508864641e-13,2.2737367544323206e-12
+gemini-3.1-flash-lite,Emosi vs Tidak setuju,60,1,0,0.016666666666666666,1.0,1.0
+gemma-4-26b-a4b-it,Tidak setuju vs Kontrol,60,0,0,0.0,1.0,1.0
+gemma-4-26b-a4b-it,Otoritas vs Kontrol,60,0,0,0.0,1.0,1.0
+gemma-4-26b-a4b-it,Emosi vs Kontrol,60,1,0,0.016666666666666666,1.0,1.0
+gemma-4-26b-a4b-it,Otoritas vs Tidak setuju,60,0,0,0.0,1.0,1.0
+gemma-4-26b-a4b-it,Emosi vs Tidak setuju,60,1,0,0.016666666666666666,1.0,1.0
